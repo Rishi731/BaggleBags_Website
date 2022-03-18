@@ -126,10 +126,10 @@ html{
 }
 
 /* Clients Section */
-#client-section{
+/* #client-section{ */
     /* height: 320px; */
-    position: relative;
-}
+/*     position: relative; */
+/* } */
 #client-section::before{
     content: "";
     position: absolute;
